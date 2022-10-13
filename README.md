@@ -7,5 +7,5 @@ Samuel Boris<br>
 -html css kod <br>
 -funkcionalita vyhladávania <br>
 
-Adrian Strnadel
--grafický dizajn
+Adrian Strnadel<br>
+-grafický dizajn<br>
