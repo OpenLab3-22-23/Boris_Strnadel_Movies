@@ -9,4 +9,3 @@ Samuel Boris<br>
 
 Adrian Strnadel<br>
 -grafický dizajn<br>
--buttons
