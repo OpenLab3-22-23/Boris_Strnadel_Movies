@@ -1,47 +1,53 @@
-
-.main-title{
-color: white;
-font-weight: bold;
-font-size: 40px;
-font-family: 'Courier New', Courier, monospace;
-margin-left: 40px;
-text-decoration: underline;
-
-}
-
-
 html{
   background-color: #494747;
+  font-family: 'Courier New', Courier, monospace;
 }
-#form{
-  float: right;
+.main-title{
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: 'Courier New', Courier, monospace;
+  margin-left: 40px;
+  text-decoration: underline;
   
-}
+  }
 
 
-.q{
- 
+.search {
   font-size: 25px;
   border-radius: 5px;
   display: block;
   border: #494747;
   margin-top: 10px;
-  float: left;
+  float: right;
   padding-right: 100px;
-  margin-right: 20px;
+  margin-right: 40px;
 }
 
-.butt{
-  color: white;
-  font-size: 25px;
-  border-radius: 5px;
-  display: block;
-  border-color:white;
-  background-color: #494747;
-  margin-top: 10px;
-  float: left;
-  margin-right: 40px;
-  
+
+
+
+
+main {
+  display: flex;
+  flex-wrap: wrap;
 }
+
+.movie {
+  background-color: #494747;
+  display: inline-block;
+  margin: 10px;
+  width: 300px;
+}
+.movie img {
+  width: 100%;
+  display: inline-block;
+}
+
+
+
+
+
+
 
 
