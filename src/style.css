@@ -45,8 +45,14 @@ main {
 }
 
 
+.movie-info {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  
 
-
+}
 
 
 

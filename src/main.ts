@@ -17,7 +17,7 @@ const SEARCHAPI =
 			Movies
 	</span>
     </form>
-    </header>
+    </header>	
     <main id="main"></main>
   </body>
 </html>
@@ -39,6 +39,7 @@ const getMovies = async (url) => {
   showMovies(respData.results);
 };
 
+getMovies(APIURL);
 const showMovies = (movies) => {
 	main.innerHTML = "";
   
@@ -52,7 +53,10 @@ const showMovies = (movies) => {
 		<img
 		src="${IMGPATH + poster_path}"
 		alt="${title}"
-		/>`; 
+		/>
+		<div class="movie-info">
+        <h3>${title}</h3>
+      	</div>`; 
 		main.appendChild(movieEl);
 	});
   };
