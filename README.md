@@ -10,3 +10,4 @@ Samuel Boris<br>
 Adrian Strnadel<br>
 -grafický dizajn<br>
 -buttons
+![image](https://user-images.githubusercontent.com/91180359/203724110-6dd51ec2-66c6-4cb3-bba1-1f6929e493ce.png)
